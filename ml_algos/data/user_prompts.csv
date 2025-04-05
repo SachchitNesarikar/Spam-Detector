@@ -1,0 +1,3 @@
+text,is_spam,model,probability
+hello world,False,naive_bayes,0.9677
+hello wrld,False,naive_bayes,0.9544
